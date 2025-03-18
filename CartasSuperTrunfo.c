@@ -1,3 +1,4 @@
+// Criei as cartas do super trunfo
 #include <stdio.h>
 #include <string.h>
 
